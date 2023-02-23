@@ -1,7 +1,6 @@
 import { useState } from "react"
 
 const Parent = () =>{ 
-    // define 2 states
     const [fName, setfName] = useState('jissmon')
     const [lName, setlName] = useState('jose')
 
